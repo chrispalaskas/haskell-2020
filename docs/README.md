@@ -200,13 +200,6 @@ Don't worry, it's the same technique as the homeworks,
 the only difference is that here the time windows is shorter and
 that you will work alone, not in a team.
 
-| Date    | Time                                          |
-|---------+-----------------------------------------------|
-| Test 10 | [t1](https://classroom.github.com/a/C4Juj31P) |
-| Test 20 | [t2](https://classroom.github.com/a/dHzLBhZ_) |
-| Test 30 | [t3](https://classroom.github.com/a/AqhOUQ2e) |
-| Test 40 | [t4](https://classroom.github.com/a/kNUSk7mP) |
-
 
 [200]: https://drive.google.com/file/d/1_dVRHFZgZhQE27HhDVRLq_QdvJAP1yK0/view?usp=sharing
 [201]: https://drive.google.com/file/d/1Wx-vzhmE4XiaocV2FrV5VtloG8xniDP8/view?usp=sharing
