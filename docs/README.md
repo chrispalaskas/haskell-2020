@@ -53,41 +53,41 @@ Report defecs in: [issues](TODO Insert link to issues for this class)
 
 ## Class
 
-| Date        | Title                                    | Video       | Chat       | Assignment                   | Question and Answers     |
-|-------------|------------------------------------------|-------------|------------|------------------------------|--------------------------|
-| Lecture 010 | [Welcome][1]                             | [video][1]  | [chat][2]  |                              |                          |
-|             | [Introduction to Cryptocurrencies][4]    |             |            |                              |                          |
-|             | [An Overview of Haskell][5]              |             |            | [Introduction][6]            |                          |
-| Lecture 020 | [Datatypes & Functions][7]               | [video][8]  | [chat][9]  | [Datatypes & Functions][10]  |                          |
-| Lecture 030 | [Polymorphism & Type Classes][11]        | [video][12] | [chat][13] |                              |                          |
-| Lecture 040 | [Higher-Order Functions][14]             | [video][15] | [chat][16] | [Higher-Order Functions][17] |                          |
-|             | [Packaging & Tools][18]                  |             |            |                              |                          |
-| Lecture 050 | [IO][19]                                 | [video][20] | [chat][21] | [IO][22]                     |                          |
-| Lecture 060 | [Testing][23]                            | [video][24] | [chat][25] |                              |                          |
-| Lecture 070 | [Abstraction Patterns][26]               | [video][27] | [chat][28] |                              |                          |
-| Lecture 080 | [Concurrency][29]                        | [video][30] | [chat][31] |                              |                          |
-| Lecture 090 | [Network Servers][32]                    | [video][33] | [chat][34] |                              |                          |
-| Lecture 100 | [Parser Combinators][35]                 | [video][36] | [chat][37] |                              |                          |
-| Lecture 110 | [More on Parsing][38]                    | [video][39] | [chat][40] |                              |                          |
-| Lecture 120 | [Data Structures][41]                    | [video][42] | [chat][43] |                              |                          |
-| Lecture 130 | [More on Data Structures][44]            | [video][45] | [chat][46] |                              | [video][200]/[chat][201] |
-| Lecture 140 | [Optics][47]                             | [video][48] | [chat][49] |                              | [video][202]/[chat][203] |
-| Lecture 150 | [More Optics][50]                        | [video][51] | [chat][52] |                              |                          |
-| Lecture 160 | [More on Monads][53]                     | [video][54] | [chat][55] |                              | [video][204]/[chat][205] |
-| Lecture 170 | [Free Monads][56]                        | [video][57] | [chat][58] |                              | [video][206]/[chat][207] |
-| Lecture 180 | [Streaming][59]                          | [video][60] | [chat][61] |                              |                          |
-| Lecture 190 | [Embedded Domain-Specific Languages][62] | [video][63] | [chat][64] |                              | [video][208]/[chat][209] |
-| Lecture 200 | Marlowe I                                | [video][65] | [chat][66] |                              | [video][210]/[chat][211] |
-| Lecture 210 | Marlowe II                               | [video][67] | [chat][68] |                              |                          |
-| Lecture 220 | Marlowe III                              | [video][69] | [chat][70] |                              | [video][212]/[chat][213] |
-| Lecture 230 | Marlowe: Static Analysis & Simulator     | [video][71] | [chat][72] |                              | [video][214]/[chat][215] |
-| Lecture 240 | Marlowe: Commodities                     | [video][73] | [chat][74] |                              |                          |
-| Lecture 250 | Plutus I                                 | [video][75] | [chat][76] |                              | [video][216]/[chat][217] |
-| Lecture 260 | Plutus II                                | [video][77] | [chat][78] |                              | [video][218]/[chat][219] |
-| Lecture 270 | Plutus: State Machines                   | [video][79] | [chat][80] |                              |                          |
-| Lecture 280 | [Template Haskell][81]                   | [video][82] | [chat][83] |                              | [video][220]/[chat][221] |
-| Lecture 290 | Liquid Haskell & Propositions as Types   | [video][84] | [chat][85] |                              | [video][222]/[chat][223] |
-| Lecture 300 | Servant & Persistent                     | [video][86] | [chat][87] |                              |                          |
+|             | Lecture and slides                       | Edited Video with Captions                                                                              | Original Video |
+|-------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|
+| Lecture 010 | [Welcome][1]                             | [youtube](https://www.youtube.com/watch?v=EoO76YCSTLo&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=1)  | [video][1]     |
+|             | [Introduction to Cryptocurrencies][4]    |                                                                                                         |                |
+|             | [An Overview of Haskell][5]              |                                                                                                         |                |
+| Lecture 020 | [Datatypes & Functions][7]               | [youtube](https://www.youtube.com/watch?v=OnuYmTbj9pk&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=4)  | [video][8]     |
+| Lecture 030 | [Polymorphism & Type Classes][11]        | [youtube](https://www.youtube.com/watch?v=GHM0OmJG7bo&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=10) | [video][12]    |
+| Lecture 040 | [Higher-Order Functions][14]             | [youtube](https://www.youtube.com/watch?v=4wJ7DzOEDRY&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=12) | [video][15]    |
+|             | [Packaging & Tools][18]                  |                                                                                                         |                |
+| Lecture 050 | [IO][19]                                 | [youtube](https://www.youtube.com/watch?v=rCbF8nXVLlg&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=15) | [video][20]    |
+| Lecture 060 | [Testing][23]                            |                                                                                                         | [video][24]    |
+| Lecture 070 | [Abstraction Patterns][26]               | [youtube](https://www.youtube.com/watch?v=ykQ2KX2bDLo&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=17) | [video][27]    |
+| Lecture 080 | [Concurrency][29]                        |                                                                                                         | [video][30]    |
+| Lecture 090 | [Network Servers][32]                    |                                                                                                         | [video][33]    |
+| Lecture 100 | [Parser Combinators][35]                 |                                                                                                         | [video][36]    |
+| Lecture 110 | [More on Parsing][38]                    |                                                                                                         | [video][39]    |
+| Lecture 120 | [Data Structures][41]                    |                                                                                                         | [video][42]    |
+| Lecture 130 | [More on Data Structures][44]            |                                                                                                         | [video][45]    |
+| Lecture 140 | [Optics][47]                             |                                                                                                         | [video][48]    |
+| Lecture 150 | [More Optics][50]                        |                                                                                                         | [video][51]    |
+| Lecture 160 | [More on Monads][53]                     | [youtube](https://www.youtube.com/watch?v=g0KIpgHGaEU&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=21) | [video][54]    |
+| Lecture 170 | [Free Monads][56]                        |                                                                                                         | [video][57]    |
+| Lecture 180 | [Streaming][59]                          |                                                                                                         | [video][60]    |
+| Lecture 190 | [Embedded Domain-Specific Languages][62] |                                                                                                         | [video][63]    |
+| Lecture 200 | Marlowe I                                |                                                                                                         | [video][65]    |
+| Lecture 210 | Marlowe II                               |                                                                                                         | [video][67]    |
+| Lecture 220 | Marlowe III                              |                                                                                                         | [video][69]    |
+| Lecture 230 | Marlowe: Static Analysis & Simulator     |                                                                                                         | [video][71]    |
+| Lecture 240 | Marlowe: Commodities                     |                                                                                                         | [video][73]    |
+| Lecture 250 | Plutus I                                 |                                                                                                         | [video][75]    |
+| Lecture 260 | Plutus II                                |                                                                                                         | [video][77]    |
+| Lecture 270 | Plutus: State Machines                   |                                                                                                         | [video][79]    |
+| Lecture 280 | [Template Haskell][81]                   |                                                                                                         | [video][82]    |
+| Lecture 290 | Liquid Haskell & Propositions as Types   |                                                                                                         | [video][84]    |
+| Lecture 300 | Servant & Persistent                     |                                                                                                         | [video][86]    |
 
 [1]:   ../lectures/00-welcome.pdf
 [2]:   https://drive.google.com/file/d/1u0xNcuoi9cLTFMenfEbNRXqe0S5sI-nj/view?usp=sharing
@@ -182,23 +182,19 @@ Report defecs in: [issues](TODO Insert link to issues for this class)
 Homework are due on Fridays before the lecture, one week after they have been handed out.
 All homework submission is via GitHub classroom.
 If you have questions, check this video:
-[How to submit your homework on GitHub classroom](https://youtu.be/MSe8xIEiulc)
 
-- [w01](https://classroom.github.com/g/GZPFmDbA)
-- [w02](https://classroom.github.com/g/ZSww0ngM)
-- [w03](https://classroom.github.com/g/Wc4HWmsI)
-- [w04](https://classroom.github.com/g/3zLh1EOf)
-- [w05](https://classroom.github.com/g/sO3WMGuz)
-- [w06](https://classroom.github.com/g/JTzSeMXf)
-- [w07](https://classroom.github.com/g/gkL7ML4I)
-- [p1](https://classroom.github.com/g/pQ5wHPtj)
-
-### Tests
-
-Every two weeks there will be a little exam.
-Don't worry, it's the same technique as the homeworks,
-the only difference is that here the time windows is shorter and
-that you will work alone, not in a team.
+- [Introduction](https://github.com/iohkedu/02-Introduction)
+- [Datatypes & Functions](https://github.com/iohkedu/03-datatypes)
+- [Higher-Order Functions](https://github.com/iohkedu/05-higher-order)
+- [IO](https://github.com/iohkedu/io)
+- [w01](https://github.com/iohkedu/w01)
+- [w02](https://github.com/iohkedu/w02)
+- [w03](https://github.com/iohkedu/w03)
+- [w04](https://github.com/iohkedu/w04)
+- [w05](https://github.com/iohkedu/w05)
+- [w06](https://github.com/iohkedu/w06)
+- [w07](https://github.com/iohkedu/w07)
+- [p1](https://github.com/iohkedu/p1)
 
 
 [200]: https://drive.google.com/file/d/1_dVRHFZgZhQE27HhDVRLq_QdvJAP1yK0/view?usp=sharing
