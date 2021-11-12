@@ -55,7 +55,7 @@ Report defecs in: [issues](TODO Insert link to issues for this class)
 
 |             | Lecture and slides                       | Edited Video with Captions                                                                              | Original Video |
 |-------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|
-| Lecture 010 | [Welcome][1]                             | [youtube](https://www.youtube.com/watch?v=EoO76YCSTLo&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=1)  | [video][1]     |
+| Lecture 010 | [Welcome][1]                             | [youtube](https://www.youtube.com/watch?v=EoO76YCSTLo&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=1)  | [video][2]     |
 |             | [Introduction to Cryptocurrencies][4]    |                                                                                                         |                |
 |             | [An Overview of Haskell][5]              |                                                                                                         |                |
 | Lecture 020 | [Datatypes & Functions][7]               | [youtube](https://www.youtube.com/watch?v=OnuYmTbj9pk&list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm&index=4)  | [video][8]     |
