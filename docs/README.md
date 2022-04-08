@@ -224,7 +224,7 @@ If you have questions, check this video:
 
 ### Bibliography
 
-We have read most of this books and they provide good information for beginners.
+We have read most of these books and they provide good information for beginners.
 
 1. Lipovača M. [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/). San Francisco: No Starch Press; 2012.
 
